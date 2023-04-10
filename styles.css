@@ -1,0 +1,125 @@
+@charset "utf-8";
+
+body {
+	color: #FFFFFF;
+	font-family: "Cascadia Code";
+	font-size: xx-large;
+	min-height: 100%;
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-top: 0%;
+	padding-bottom: 5%;
+	background-color: #000000;
+	color: #FFFFFF;
+
+		<background>
+		margin: 0;
+		background-color: #000000;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-image: url("assets/Images/Stars(2).png");
+		padding-top: 0px;
+		padding-bottom: 0px;
+
+		</background>
+
+	}
+
+	
+header {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: "Cascadia Code";
+	margin-top: 1%;
+	margin-left: -10%;
+	margin-right: 0%;
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	width: 0px;
+	max-width: 4%;
+}
+
+
+	
+li {
+	display: inline;
+	text-decoration: none;
+	width: 10%;
+	text-decoration: none;
+	display: inline;
+	background-color: #000000;
+	font-style: normal;
+	font-weight: normal;
+	float: none;
+	text-align: center;
+	text-transform: none;
+	vertical-align: middle;
+	list-style-position: inside;
+	padding-left: 1%;
+	padding-right: 1%;
+	top: 20px;
+	clear: none;
+	left: 30px;
+	right: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 120px;
+	margin-bottom: 20px;
+	word-spacing: normal;
+	min-width: 50px;
+}
+}
+ul{
+	display: inline;
+	text-decoration: none;
+}
+h2 a span {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+@media (min-width:300px){
+.hero-leadin {
+	font-size:15mm;
+	line-height: ;
+}
+
+	
+
+}
+
+div.formRow {
+	display: flex;
+	flex-flow: row wrap;
+	margin: 20px 80px;
+}
+div.formRow > * {
+	flex: 1 1 150px;
+}
+form#Contact {
+	display: flex;
+	flex-flow: row wrap;
+  }
+  
+  form#Contact > fieldset {
+	background-color: black;
+	border-radius: 20px;
+	flex: 1 1 300px;
+	font-size: 1.25em;
+	padding: 10px;
+	margin: 10px;
+  }
+
+legend {
+	background-color: #000000;
+	color: white;
+	padding: 5px;
+}
+
+@media (min-width:768px){
+}
+
+@media (min-width:1748px){
+}
